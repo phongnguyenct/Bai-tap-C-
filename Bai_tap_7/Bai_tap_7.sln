@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai_tap_7", "Bai_tap_7\Bai_tap_7.csproj", "{A7E6B14F-B43C-4DE7-8E16-BF0D7165EADF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7E6B14F-B43C-4DE7-8E16-BF0D7165EADF}.Debug|x86.ActiveCfg = Debug|x86
+		{A7E6B14F-B43C-4DE7-8E16-BF0D7165EADF}.Debug|x86.Build.0 = Debug|x86
+		{A7E6B14F-B43C-4DE7-8E16-BF0D7165EADF}.Release|x86.ActiveCfg = Release|x86
+		{A7E6B14F-B43C-4DE7-8E16-BF0D7165EADF}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

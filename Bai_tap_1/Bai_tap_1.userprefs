@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{60169237-8E26-4550-AF95-7FF2A8B77FC4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Bai_tap_1/Program.cs">
+    <Files>
+      <File FileName="Bai_tap_1/Program.cs" Line="22" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Bai__tap__1 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
